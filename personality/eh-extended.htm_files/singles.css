@@ -1,0 +1,36 @@
+TABLE, TR, TD, BODY{font-family:arial,helvetica,verdana,sans-serif;font-size:12px;font-weight:normal;}
+A{text-decoration:underline;color:#00589F;}
+A:hover{text-decoration:none;color:#00589F;}
+a.bluelink{font-size:12px;color:#002232;text-decoration:underline;}
+a.bluelink:hover{font-size:12px;color:#002232;text-decoration:none;}
+a.orangelink{font-size:12px;color:#002232;text-decoration:underline;}
+a.orangelink:hover{font-size:12px;color:#005F8C;text-decoration:none;}
+a.greenlink{font-size:12px;color:#4A702A;text-decoration:underline;}
+a.greenlink:hover{font-size:12px;color:#4A702A;text-decoration:none;}
+.spacer{line-height:20px;}
+.whitebg{background-color:#FFFFFF;}
+.lightbluebg{background-color:#F1F7FA;}
+.darkbluebg{background-color:#72A0AF;}
+.greenbg{background-color:#CBE6B4;}
+.greybg{background-color:#E8E8E8;}
+.orangebg{background-color:#F2DFA8;}
+.lightorangebg{background-color:#FFFBEF;}
+.bluetab-on{font-family:arial;font-size:12px;color:#002232;font-weight:bold;background-color:#82C7EA;}
+.bluetab-bg{font-family:arial;font-size:12px;color:#002232;background-color:#CDE4EF;}
+.orangetab{font-family:arial;font-size:12px;color:#923E00;background-color:#F7E1A0;}
+.greentab{font-family:arial;font-size:12px;color:#4A702A;background-color:#CBE6B4;}
+.text10{font-size:10px;font-weight:normal;}
+.text11{font-size:11px;font-weight:normal;}
+.title{font-size:14px;font-weight:normal;}
+.titlered{font-size:14px;color:#8E0000;font-weight:normal;}
+.copyright{font-size:10px;font-weight:normal;color:#A2A2A2;}
+.error{font-size:12px;font-weight:normal;color:#C60000;}
+.error-message{font-size:12px;font-weight:normal;color:#C60000;}
+.messageok{font-size:12px;font-weight:normal;color:#396100;}
+.textgrey{font-size:12px;font-weight:normal;color:#A2A2A2;}
+.btn{font-family:arial;font-size:13px;color:#ffffff;background-color:#B74351;border-color:#820000;border-width:1px;}
+.textbox{border-color:#4F80A8;border-width:1px 1px 1px 1px;border-style:solid;}
+.photo{border-color:#000000;border-width:1px 1px 1px 1px;border-style:solid;font-family:arial;font-size:12px;width:135px;height:104px;text-align:center;margin:5px;}
+.photocaption{font-family:arial;font-size:10px;margin:5px;}
+.insert{width:700px;border:solid 1px #72A0AF;background:#CEDBDE;padding:1.5em 0;text-align:center;margin:0.5em 30px;}
+.copyright2{font-family:Arial, Helvetica, Verdana, sans-serif;font-size:10px;color:#A7A7A7;text-decoration:none;}
